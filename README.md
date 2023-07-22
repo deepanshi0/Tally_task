@@ -31,8 +31,8 @@ NFS Word is a fun and engaging type racing game that aims to improve your typing
 
 To get started with NFS Word, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/nfs-word.git`
-2. Navigate to the project directory: `cd nfs-word`
+1. Clone the repository: `git clone https://github.com/deepanshi0/Tally_task.git`
+2. Navigate to the project directory: `cd client`
 3. Install the dependencies: `npm install`
 
 ## Usage
