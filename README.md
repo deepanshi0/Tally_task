@@ -12,8 +12,9 @@ Welcome to NFS Word, a thrilling type racing game where you can put your typing 
 5. [Game Modes](#game-modes)
 6. [Difficulty Levels](#difficulty-levels)
 7. [Multiplayer](#multiplayer)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [Technologies](#technology)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ## Introduction
 
@@ -62,6 +63,13 @@ NFS Word offers various difficulty levels to accommodate players of all skill le
 ## Multiplayer
 
 To access the multiplayer mode, you need an active internet connection to connect with other players. The game will establish real-time communication using Socket.io, ensuring a seamless and engaging multiplayer experience.
+
+## Technologies Used
+NFS Word is built using the following technologies and libraries:
+
+React: JavaScript library for building user interfaces.
+Socket.io: Real-time communication library for multiplayer functionality.
+Framer motion: Library for creating smooth animations and transitions.
 
 ## Contributing
 
