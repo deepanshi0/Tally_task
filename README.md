@@ -67,9 +67,9 @@ To access the multiplayer mode, you need an active internet connection to connec
 ## Technologies Used
 NFS Word is built using the following technologies and libraries:
 
-React: JavaScript library for building user interfaces.
-Socket.io: Real-time communication library for multiplayer functionality.
-Framer motion: Library for creating smooth animations and transitions.
+- React: JavaScript library for building user interfaces.
+- Socket.io: Real-time communication library for multiplayer functionality.
+- Framer motion: Library for creating smooth animations and transitions.
 
 ## Contributing
 
